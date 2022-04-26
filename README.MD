@@ -13,7 +13,7 @@ Codes include:
 **Analysis:**
 * Exploratory Visualizations
 * Transformation of datasets for determining thresholds
-* Visualizations
+* Visualizations (Some are available in Charts folder)
 * Feature importance calculations for selected fields
 
 At the root of the repo is a html file, which is a simple visualization of the distribution of the dataset. This is created using D3 in Svelte. 
